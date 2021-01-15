@@ -13,7 +13,7 @@ In 2019, 35% of new Canadian immigrants chose to settle in the City of Toronto. 
 ### Python Libraries
 The libraries used on this project include:
 * Pandas – For storing and manipulating structured data. Pandas functionality is built on NumPy
-* Numpy – For multi-dimensional array and matrix data structures. 
+* Numpy – For multi-dimensional array, matrix data structures and, performing mathematical operations
 * Geopandas – For storing spatial data coordinates and shape files
 *	Scikit learn – For Machine learning tasks
 * Plotly Visualization Package – For all visualizations (including maps and graphs)
